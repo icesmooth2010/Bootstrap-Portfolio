@@ -1,0 +1,10 @@
+body {
+    background-image: url(file:///C:/Users/Icesmooth/Desktop/code/Basic-Portfolio/assets/images/green_dust_scratch/green_dust_scratch_@2X.png);
+}
+.jumbotron {
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image:url(file:///C:/Users/Icesmooth/Desktop/code/Bootstrap-Portfolio/Boys%20@%20Pearl%20Harbor%202017.JPG);
+}
