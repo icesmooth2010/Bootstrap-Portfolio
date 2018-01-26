@@ -15,3 +15,78 @@ background-image: url(http://www.vacationlovers.net/oahu/oahu_marriott_ihilani_s
     width: 170px;
     height: 200px;
 }
+/* footer */
+
+footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+  }
+  
+  /* sidebar */
+  
+  .sidebar {
+    float: right;
+    width: 100%;
+    max-width: 270px;
+    padding: 30px;
+    margin-bottom: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+  }
+  /* contact page */
+
+#contact-form ul {
+    margin-bottom: 20px;
+  }
+  
+  #contact-form li {
+    margin-bottom: 10px;
+  }
+  /* portfolio page */
+
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+  }
+  
+  .work:nth-child(even) {
+    margin-right: 40px;
+  }
+  
+  .work img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+  }
+  
+  .work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+  
+  .auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+  
