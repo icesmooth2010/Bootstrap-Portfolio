@@ -18,7 +18,19 @@ background-image: url(http://www.vacationlovers.net/oahu/oahu_marriott_ihilani_s
     width: 170px;
     height: 200px;
 }
-
+.navbar-brand {
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+  }
   
 /* footer */
 
@@ -36,7 +48,7 @@ footer {
   /* sidebar */
   
   .sidebar {
-    float: left;
+    float: right;
     width: 100%;
     max-width: 270px;
     padding: 30px;
@@ -46,11 +58,11 @@ footer {
   }
   /* contact page */
 
-#contact-form ul {
+.contact-form ul {
     margin-bottom: 20px;
   }
   
-  #contact-form li {
+  .contact-form li {
     margin-bottom: 10px;
   }
   label,
@@ -84,7 +96,7 @@ input[type=submit] {
 }
 /* main */
 
-#main-container {
+.main-container {
     padding-top: 130px;
   }
   
