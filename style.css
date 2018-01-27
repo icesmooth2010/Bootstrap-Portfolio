@@ -1,7 +1,14 @@
 body {
     background-image: url(file:///C:/Users/Icesmooth/Desktop/code/Basic-Portfolio/assets/images/green_dust_scratch/green_dust_scratch_@2X.png);
 
+    box-sizing: border-box;
+
 }
+
+
+    
+
+
 .jumbotron {
     text-align: center;
     color: rgb(199, 27, 27);
@@ -149,4 +156,7 @@ input[type=submit] {
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+}
+.caption {
+    border: 2px solid black;
 }
